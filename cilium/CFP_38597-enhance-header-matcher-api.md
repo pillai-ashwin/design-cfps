@@ -1,4 +1,4 @@
-# CFP-XXX: Enhanced L7 Header Matching with Regex Support
+# CFP-38597: Enhanced L7 Header Matching with Regex Support
 
 **SIG: SIG-Policy** ([View all current SIGs](https://docs.cilium.io/en/stable/community/community/#all-sigs))
 
